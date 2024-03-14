@@ -1,0 +1,11 @@
+@model IEnumerable<Product>
+
+<ul>
+    @foreach (Product p  in Model)
+    {<ul class="list-group list-group-horizontal-lg">
+       <li class="list-group-item col-4">@p.ProductName  </li>
+       <li class="list-group-item col-4">@p.UnitPrice</li>
+       <li class="list-group-item col-4">@p.UnitsInStock</li>
+    </ul>
+    }
+</ul> 

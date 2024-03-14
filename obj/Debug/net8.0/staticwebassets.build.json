@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "UOSBWwEsGlzPR2/Aag7/WqKsBbzmfnlHFBo4wx9wylw=",
+  "Source": "Northwind",
+  "BasePath": "_content/Northwind",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind\\wwwroot",
+      "Source": "Northwind",
+      "ContentRoot": "C:\\Users\\Eduardo\\Documents\\Spring 2023-2024\\.NetWebDevelopment\\Northwind\\wwwroot\\",
+      "BasePath": "_content/Northwind",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Eduardo\\Documents\\Spring 2023-2024\\.NetWebDevelopment\\Northwind\\wwwroot\\client.css",
+      "SourceId": "Northwind",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Eduardo\\Documents\\Spring 2023-2024\\.NetWebDevelopment\\Northwind\\wwwroot\\",
+      "BasePath": "_content/Northwind",
+      "RelativePath": "client.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\client.css"
+    }
+  ]
+}
